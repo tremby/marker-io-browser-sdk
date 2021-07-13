@@ -33,6 +33,7 @@ module.exports = {
       destination,
       reporter,
       customData,
+      source: 'browser-sdk',
     };
 
     const __cs = [];
